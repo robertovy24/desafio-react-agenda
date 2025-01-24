@@ -1,3 +1,12 @@
+## Tomé como referencia el proyecto de Agenda de Contactos, aunque al descargarlo no funcionó correctamente.
+
+```
+Nodejs 20.18.2
+json-server --watch db.json --port 3001  
+npm start
+```
+
+
 ## Previred Frontend Test - Agenda de contactos
 
 ### Introducción
